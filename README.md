@@ -316,6 +316,13 @@ Open an issue or a pull request.
 
 ---
 
+## Related lists
+
+- [awesome-ecommerce-data-apis](https://github.com/happyendpointhq/awesome-ecommerce-data-apis) - product, pricing, and retail catalogue data
+- [awesome-alternative-data](https://github.com/happyendpointhq/awesome-alternative-data) - the investment research angle, including property as a signal
+
+---
+
 ## Maintained by
 
 This list is maintained by [Happy Endpoint](https://happyendpoint.com), which

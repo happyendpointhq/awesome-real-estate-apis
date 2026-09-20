@@ -168,6 +168,10 @@ The most fragmented market in the world, and the most expensive to serve.
 - [ImmoScout24](https://api.immobilienscout24.de/) - Germany's largest portal. Partner API, restricted access.
 - [Pararius and Funda (Netherlands)](https://www.funda.nl/) - No public APIs. Dutch coverage generally means scraping or a commercial aggregator.
 
+### Italy
+
+- [Zornade API](https://api.zornade.com) - Cadastral, risk, solar and valuation data for all Italian properties. Free tier (10,000 requests/hour); also available as an MCP server for AI assistants at https://mcp.zornade.com/mcp.
+
 ---
 
 ## Middle East

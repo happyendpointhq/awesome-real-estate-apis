@@ -262,6 +262,7 @@ Bulk files, for analysis rather than live queries.
 - [Kaggle real estate datasets](https://www.kaggle.com/datasets?search=real+estate) - Mixed quality, often stale, but useful for prototyping and teaching.
 - [Zillow Research Data](https://www.zillow.com/research/data/) - Free aggregate US indices such as ZHVI and ZORI. Not listing-level, but genuinely useful and genuinely free.
 - [Happy Endpoint datasets](https://happyendpoint.com/datasets) - Bulk snapshots for the covered portals, with free samples that share the paid schema.
+- [AptToSell South Korea Housing Subscription Reference Data](https://apttosell.com/housing-subscription-data/) - Open CC BY 4.0 reference dataset covering South Korean private-housing subscription score rules and regional deposit requirements, with CSV/JSON files, methodology notes, and a DOI archive.
 
 ---
 

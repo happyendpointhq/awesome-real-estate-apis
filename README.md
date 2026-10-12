@@ -142,6 +142,7 @@ The most fragmented market in the world, and the most expensive to serve.
 - [HM Land Registry Price Paid](https://landregistry.data.gov.uk/app/ppd/) - Free, official, sold prices. Start here.
 - [PropertyData](https://propertydata.co.uk/) - UK market analytics API covering prices, rents, yields, and planning. Self-serve.
 - [Homedata](https://homedata.co.uk/) - Aggregates HM Land Registry, EPC, flood risk, council tax bands, and UPRN into one normalised API. Free tier available. A good example of the "stitch together the open data for you" model.
+- [Invokely](https://invokely.ai/docs) - Hosted MCP for ONS monthly average private rents paid and year-on-year change at local-authority level in England and Wales. Free account: 500 calls/month via MCP; no-account MCP trial: 25 calls/day/IP. REST data queries require Builder, Pro or prepaid credits.
 - [Rightmove API (Happy Endpoint)](https://happyendpoint.com/library/rightmove-uk) - Unofficial API over Rightmove listings. Rightmove has no public API of its own.
 - [Gumtree API (Happy Endpoint)](https://happyendpoint.com/library/gumtree-api) - Classifieds including property, useful for the private-landlord segment that misses the big portals.
 - [Zoopla](https://developers.zoopla.co.uk/) - A developer programme exists on paper, but it has been effectively unmaintained for years, with reports of keys silently ceasing to work. Listed for completeness. Verify current status before planning around it.

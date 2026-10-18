@@ -134,6 +134,7 @@ The most fragmented market in the world, and the most expensive to serve.
 - [Rentcast](https://www.rentcast.io/api) - Rental estimates, listings, and property records. Self-serve with a free tier.
 - [Realtor.com API (Happy Endpoint)](https://happyendpoint.com/library) - Unofficial API over Realtor.com listing data. Self-serve via RapidAPI.
 - [Auction.com API (Happy Endpoint)](https://happyendpoint.com/library/auction-com-api) - Foreclosure and auction listings, a segment most providers skip.
+- [Foreclosure Data Hub](https://www.foreclosuredatahub.com/api-docs) - US foreclosure and REO property data across all 50 states, with daily updates. Self-serve REST API; free trial available.
 
 ---
 

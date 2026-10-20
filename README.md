@@ -134,6 +134,7 @@ The most fragmented market in the world, and the most expensive to serve.
 - [Rentcast](https://www.rentcast.io/api) - Rental estimates, listings, and property records. Self-serve with a free tier.
 - [Realtor.com API (Happy Endpoint)](https://happyendpoint.com/library) - Unofficial API over Realtor.com listing data. Self-serve via RapidAPI.
 - [Auction.com API (Happy Endpoint)](https://happyendpoint.com/library/auction-com-api) - Foreclosure and auction listings, a segment most providers skip.
+- [Rent.com API (Happy Endpoint)](https://github.com/happyendpointhq/rent-com-api) - Unofficial API over Rent.com rental listings: rent by bedroom, floor plans, deals, rent estimates. Runnable examples in the repo.
 
 ---
 
@@ -178,7 +179,8 @@ API coverage and the government publishes transactions openly.
 - [Dubai Pulse DLD transactions](https://www.dubaipulse.gov.ae/data/dld-transactions/dld_transactions-open) - Free, official, what property actually sold for.
 - [Bayut API (Happy Endpoint)](https://happyendpoint.com/library/bayut-api) - Listings, agents, agencies, off-plan projects, and transaction history from the UAE's largest portal.
 - [PropertyFinder API (Happy Endpoint)](https://happyendpoint.com/library/propertyfinder-api) - The other dominant UAE portal, including commercial property and broker data.
-- [Aqar API (Happy Endpoint)](https://happyendpoint.com/library/aqar-api) - Saudi Arabian property listings.
+- [Aqar API (Happy Endpoint)](https://github.com/happyendpointhq/aqar-api) - Saudi Arabian property listings, district price history and natural-language search.
+- [Wasalt API (Happy Endpoint)](https://github.com/happyendpointhq/wasalt-api) - Saudi listings with REGA licence data, holiday rentals, off-plan projects and Infath auctions.
 - [Yad2 API (Happy Endpoint)](https://happyendpoint.com/library/yad2-api) - Israel's dominant classifieds platform.
 - [Bayut and Dubizzle official](https://www.bayut.com/) - No public developer API.
 

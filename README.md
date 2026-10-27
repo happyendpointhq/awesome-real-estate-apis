@@ -155,7 +155,7 @@ The most fragmented market in the world, and the most expensive to serve.
 
 - [Idealista API](https://developers.idealista.com/access-request) - Official, and the best data for Spain if you can get in. Restricted to vetted business partners; individual developers are not accepted.
 - [Idealista API (Happy Endpoint)](https://happyendpoint.com/library/idealista-api) - Unofficial, self-serve alternative for developers who cannot get official access.
-- [Fotocasa API (Happy Endpoint)](https://happyendpoint.com/library/fotocasa-api) - Spain's second major portal. Inventory only partly overlaps Idealista, so serious Spanish coverage means both.
+- [Fotocasa API (Happy Endpoint)](https://github.com/happyendpointhq/fotocasa-api) - Spain's second major portal. Inventory only partly overlaps Idealista, so serious Spanish coverage means both. Runnable examples in the repo.
 - [Catastro web services](https://www.sedecatastro.gob.es/) - Free official cadastre data for parcels and buildings.
 
 ### Turkey

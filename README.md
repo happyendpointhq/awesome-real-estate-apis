@@ -181,7 +181,7 @@ API coverage and the government publishes transactions openly.
 - [PropertyFinder API (Happy Endpoint)](https://happyendpoint.com/library/propertyfinder-api) - The other dominant UAE portal, including commercial property and broker data.
 - [Aqar API (Happy Endpoint)](https://github.com/happyendpointhq/aqar-api) - Saudi Arabian property listings, district price history and natural-language search.
 - [Wasalt API (Happy Endpoint)](https://github.com/happyendpointhq/wasalt-api) - Saudi listings with REGA licence data, holiday rentals, off-plan projects and Infath auctions.
-- [Yad2 API (Happy Endpoint)](https://happyendpoint.com/library/yad2-api) - Israel's dominant classifieds platform.
+- [Yad2 API (Happy Endpoint)](https://github.com/happyendpointhq/yad2-api) - Israel's dominant classifieds platform. Runnable examples in the repo.
 - [Bayut and Dubizzle official](https://www.bayut.com/) - No public developer API.
 
 A note on the UAE specifically: listings and DLD transactions answer different

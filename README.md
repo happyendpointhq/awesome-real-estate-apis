@@ -206,6 +206,7 @@ prices on under-construction stock can diverge a long way from recorded sales.
 
 - [UAE Real Estate API (Happy Endpoint)](https://happyendpoint.com/library/uae-realestate-api) - Cross-portal UAE aggregate.
 - [Nestoria API](https://www.nestoria.co.uk/help/api) - One of the longest-running free portal APIs, historically covering several countries. Country coverage has narrowed over the years and current status is hard to confirm, so verify before building on it.
+- [Fonciq](https://fonciq.ca) - Québec Land Registry (Registre foncier) data for real-estate professionals via API or remote MCP. Commercial, account required. Independent, not government-affiliated.
 
 ---
 

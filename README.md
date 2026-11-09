@@ -193,7 +193,7 @@ prices on under-construction stock can diverge a long way from recorded sales.
 
 ## Asia Pacific
 
-- [99co API (Happy Endpoint)](https://happyendpoint.com/library/99co-api) - Singapore property listings.
+- [99co API (Happy Endpoint)](https://github.com/happyendpointhq/99co-api) - Singapore condo, HDB and landed listings, new launches and transactions. Runnable examples in the repo.
 - [Suumo API (Happy Endpoint)](https://happyendpoint.com/library/suumo-api) - Japan's largest property portal.
 - [URA Data Service](https://eservice.ura.gov.sg/maps/api/) - Singapore Urban Redevelopment Authority. Free official API covering private residential transactions. Register for an access key at the [registration page](https://eservice.ura.gov.sg/maps/api/reg.html). Excellent and underused.
 - [HDB resale prices](https://data.gov.sg/collections/189/view) - Singapore public housing resale transactions, free and complete. Singapore is arguably the best-served market in the world for open property data.

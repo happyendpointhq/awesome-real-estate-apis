@@ -161,11 +161,12 @@ The most fragmented market in the world, and the most expensive to serve.
 ### Turkey
 
 - [Emlakjet API (Happy Endpoint)](https://happyendpoint.com/library/emlakjet-api) - Turkish property listings.
-- [Hepsiemlak API (Happy Endpoint)](https://happyendpoint.com/library/hepsiemlak-api) - The other major Turkish portal.
+- [Hepsiemlak API (Happy Endpoint)](https://github.com/happyendpointhq/hepsiemlak-api) - The other major Turkish portal. Listings plus a price index per m2 by province, county and district. Runnable examples in the repo.
 
 ### Elsewhere
 
 - [Njuskalo API (Happy Endpoint)](https://happyendpoint.com/library/njuskalo-api) - Croatia's dominant classifieds site, including property.
+- [Cian API (Happy Endpoint)](https://github.com/happyendpointhq/cian-api) - Russian property listings with asking-price history, market estimates and new-build complexes. Runnable examples in the repo.
 - [ImmoScout24](https://api.immobilienscout24.de/) - Germany's largest portal. Partner API, restricted access.
 - [Pararius and Funda (Netherlands)](https://www.funda.nl/) - No public APIs. Dutch coverage generally means scraping or a commercial aggregator.
 

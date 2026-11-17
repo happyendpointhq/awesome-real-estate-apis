@@ -135,6 +135,7 @@ The most fragmented market in the world, and the most expensive to serve.
 - [Realtor.com API (Happy Endpoint)](https://happyendpoint.com/library) - Unofficial API over Realtor.com listing data. Self-serve via RapidAPI.
 - [Auction.com API (Happy Endpoint)](https://happyendpoint.com/library/auction-com-api) - Foreclosure and auction listings, a segment most providers skip.
 - [Rent.com API (Happy Endpoint)](https://github.com/happyendpointhq/rent-com-api) - Unofficial API over Rent.com rental listings: rent by bedroom, floor plans, deals, rent estimates. Runnable examples in the repo.
+- [BatchData](https://developer.batchdata.com/) - Property search and details, owner skip tracing, and phone and address verification for U.S. properties. Paid plans only, no free tier; open-source MCP server and n8n, Zapier and Make integrations on GitHub.
 
 ---
 

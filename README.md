@@ -265,6 +265,7 @@ Bulk files, for analysis rather than live queries.
 - [Kaggle real estate datasets](https://www.kaggle.com/datasets?search=real+estate) - Mixed quality, often stale, but useful for prototyping and teaching.
 - [Zillow Research Data](https://www.zillow.com/research/data/) - Free aggregate US indices such as ZHVI and ZORI. Not listing-level, but genuinely useful and genuinely free.
 - [Happy Endpoint datasets](https://happyendpoint.com/datasets) - Bulk snapshots for the covered portals, with free samples that share the paid schema.
+- [US listing photo data](https://github.com/October-ai-jpg/listing-photo-data) - Free (CC BY 4.0) CSV/JSON of published prices for US real estate photography, video, vacation rental photography and virtual staging, plus listing photo rules at 22 MLSs. Small and hand-collected, not listing-level; each row links to its source. Maintained by October, a listing photo app.
 
 ---
 

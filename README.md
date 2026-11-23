@@ -169,6 +169,7 @@ The most fragmented market in the world, and the most expensive to serve.
 - [Cian API (Happy Endpoint)](https://github.com/happyendpointhq/cian-api) - Russian property listings with asking-price history, market estimates and new-build complexes. Runnable examples in the repo.
 - [ImmoScout24](https://api.immobilienscout24.de/) - Germany's largest portal. Partner API, restricted access.
 - [Pararius and Funda (Netherlands)](https://www.funda.nl/) - No public APIs. Dutch coverage generally means scraping or a commercial aggregator.
+- [Listingrail](https://listingrail.com/docs/) - One JSON schema for live listings from 22 portals, among them Rightmove, Zoopla, Idealista, Immobiliare.it, ImmoScout24, Fotocasa, Daft, Otodom, Hemnet and Bayut. Read from each portal at request time. 250 free listings a month, then a $9 one-off pack or a paid plan.
 
 ---
 

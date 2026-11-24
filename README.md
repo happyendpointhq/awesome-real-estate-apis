@@ -274,6 +274,7 @@ Bulk files, for analysis rather than live queries.
 - [happyendpoint-js](https://github.com/happyendpointhq/happyendpoint-js) - TypeScript equivalent.
 - [happyendpoint-mcp](https://github.com/happyendpointhq/happyendpoint-mcp) - MCP server, so Claude, Cursor, and similar can query property data directly.
 - [idealista-api](https://github.com/yagueto/idealista-api) - Community Python client for the official Idealista API.
+- [HomeHarvest](https://github.com/ZacharyHampton/HomeHarvest) - Free, open source Python library for US property data (for sale, sold, pending, rentals), read from public listing pages. No API key. Has an [MCP server](https://github.com/ZacharyHampton/homeharvest-mcp) for Claude, Cursor, and similar.
 - [dubai-property-price-tracker](https://github.com/happyendpointhq/dubai-property-price-tracker) - Open source listing monitor with price-drop alerts.
 
 ---
